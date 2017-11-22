@@ -1,4 +1,15 @@
 package MathematicalProgramming;
+/*
+
+ * busTicket.java
+
+ *
+
+ *  Created on: Jun 27, 2014
+
+ *      Author: madona
+
+ */
 
 import java.util.Scanner;
 
